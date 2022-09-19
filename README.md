@@ -1,1 +1,3 @@
-# patel_o_huffman_l_hw1
+# About our awesome dev team
+
+Out dev team is awesome and amazing! HOORAH!
