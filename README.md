@@ -4,10 +4,10 @@ patel_o_huffman_l_hw1
 
 # Description
 
-Logan - Hey, i'm Logan! I am from Canada, and my hobbies are gaming, watching movies, hanging out with friends, biking, swimming, almost anything really.
-
 Om - hey there, my name is om, i am from india.
-i love to cook food and exploring new tachnology is my favourite thing to do.
+     i love to cook various food dishes and love to explore new technology gadgets.
+
+Logan - Hey, i'm Logan! I am from Canada, and my hobbies are gaming, watching movies, hanging out with friends, biking, swimming, almost anything really.
 
 ## Installation
 
@@ -36,8 +36,8 @@ Open the readme file and read it.
 
 ## Credits
 
+Om patel
 Logan Huffman
-Om Patel
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique veniam architecto molestiae pariatur numquam odio vero rerum iusto distinctio, iure omnis provident assumenda, autem amet quidem error non quam eveniet.
 
