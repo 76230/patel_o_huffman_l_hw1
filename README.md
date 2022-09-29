@@ -2,6 +2,13 @@
 
 patel_o_huffman_l_hw1
 
+# Description
+
+Logan - Hey, i'm Logan! I am from Canada, and my hobbies are gaming, watching movies, hanging out with friends, biking, swimming, almost anything really.
+
+Om - hey there, my name is om, i am from india.
+i love to cook food and exploring new tachnology is my favourite thing to do.
+
 ## Installation
 
 Download it as zip, or clone it to the desired location via git bash.
